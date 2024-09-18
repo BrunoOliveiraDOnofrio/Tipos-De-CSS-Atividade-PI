@@ -1,0 +1,43 @@
+
+.card{
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+}
+
+.border{
+    border-radius: 25px;
+    border: solid 2px rgb(0,0,0);
+    margin: 20px;
+    padding: 20px;
+}
+
+.icon1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/706/706830.png");
+    background-size: cover;
+}
+
+.icon2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url("https://cdn-icons-png.flaticon.com/256/3681/3681928.png");
+    background-size: cover;
+
+}
+
+.text{
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.spam_adriana{
+    color: blue;
+}
+
+.spam_hugo{
+    color: red;
+}
